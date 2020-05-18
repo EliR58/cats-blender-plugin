@@ -153,7 +153,7 @@ bone_list_rename_unknown_side = {
     'Shoulder': 'shoulder',
     'Shoulder_001': 'shoulder',
 }
-bone_reweigth_to_parent = [
+bone_reweight_to_parent = [
     'ShoulderC_\L',
     'Arm_\Left_Shoulder_Adj_1',
     'Arm_\Left_Shoulder_Adj_2',
